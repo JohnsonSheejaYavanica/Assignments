@@ -1,0 +1,16 @@
+.usp-carousel {
+    display: flex;
+    overflow-x: scroll;
+    padding: 20px;
+  }
+  
+  .usp-item {
+    flex: 0 0 auto;
+    background-color: #FAFAFA;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0 10px;
+    min-width: 300px;
+  }
+  
